@@ -36,4 +36,4 @@ Instead of just using high-level frameworks, I care deeply about **how software 
 
 ---
 
-📫 **Let's Connect:** [Portfolio](https://yourportfolio.com) | [LinkedIn](https://linkedin.com/in/yourusername) | [Email](mailto:your.email@example.com)
+📫 **Let's Connect:** LinkedIn](www.linkedin.com/in/ömer-oğuz-7304371ba) | [Email](omeroguz45@gmail.com)
