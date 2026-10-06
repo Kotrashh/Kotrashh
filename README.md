@@ -1,38 +1,39 @@
-# 🚀 High-Impact Web & Interactive Developer
+# Hi, I'm Ömer. 👋
 
-I’m **Ömer**, a Computer Science student (specializing in AI & ML) with a background in Computer Programming. I combine core software engineering principles with creative web development to build clean, fast, and interactive digital products.
+I’m a **Computer Science student specializing in AI & ML**, with a solid background in **Computer Programming**. I build fast, scalable web applications and interactive digital experiences that combine strong CS theory with creative frontend architecture.
 
-I don't just work with high-level frameworks — I focus on how systems, algorithms, and web graphics actually operate under the hood.
-
----
-
-### ⚡ Core Strengths & Capabilities
-
-* 🧠 **Engineered Foundations:** Grounded in Computer Science theory — Data Structures, Discrete Math, and Algorithms. This allows me to write clean, predictable, and scalable code.
-* 🎨 **Interactive & Creative Web:** I go beyond traditional UI layouts by engineering custom 2D/3D visualizers, WebGL mesh tools, and interactive canvas graphics in p5.js.
-* 🛠️ **Practical Problem Solving:** From full-stack web applications to hardware diagnostics, I enjoy identifying root technical problems and building robust solutions.
-* ⏩ **Modern Workflow:** Continuously refining my execution speed using version control (Git), AI-assisted tools, and modern web environments.
+Instead of just using high-level frameworks, I care deeply about **how software works under the hood** — whether that’s optimizing algorithms, rendering 3D graphics, or troubleshooting system-level problems.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 💡 What I Bring to the Table
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+* 🌐 **Web & Interactive Engineering:** Crafting clean, responsive web apps using modern JavaScript, HTML5, and CSS3.
+* 🎨 **Creative Coding & Visuals:** Building 2D/3D audio-reactive visualizers, WebGL mesh geometries, and interactive canvas tools in p5.js.
+* 🧠 **Computer Science Foundations:** Strong grounding in Algorithms, Data Structures, Discrete Mathematics, and AI principles for writing efficient, maintainable code.
+* 🛠️ **System & Hardware Mindset:** Practical experience in low-level troubleshooting, system diagnostics, and developer tools like Git, VS Code, and Claude Code.
 
 ---
 
-### 🎓 Academic Journey
-- 🎓 **BSc in Computer Science** (Specialization: AI & ML)
-- 📜 **Associate Degree in Computer Programming**
+### 🛠️ Tech Stack & Workflow
+
+- **Languages & Core:** JavaScript (ES6+), Node.js, HTML5, CSS3
+- **Graphics & Interactive:** p5.js, WebGL, Canvas API
+- **Tools & Environment:** Git, GitHub, VS Code, Claude Code
+
+---
+
+### 🎓 Academic Background & Focus
+- **BSc in Computer Science** (Specialization in AI & ML)
+- **Degree in Computer Programming**
 
 ---
 
 ### 💼 Open For
-- 🌐 **Frontend / Web Engineering Roles** (Remote / Junior / Intern)
-- 🛠️ **Freelance Projects** (Web apps, interactive visualizers, custom UI)
-- 🤝 **Open-source Collaborations**
+- Junior / Trainee Frontend & Web Development positions
+- Remote contracts & freelance web/graphics projects
+- Open-source and creative engineering collaborations
+
+---
+
+📫 **Let's Connect:** [Portfolio](https://yourportfolio.com) | [LinkedIn](https://linkedin.com/in/yourusername) | [Email](mailto:your.email@example.com)
