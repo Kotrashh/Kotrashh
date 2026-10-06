@@ -1,6 +1,6 @@
 # 🚀 High-Impact Web & Interactive Developer
 
-I’m **[Adın]**, a Computer Science student (specializing in AI & ML) with a background in Computer Programming. I combine core software engineering principles with creative web development to build clean, fast, and interactive digital products.
+I’m **Ömer**, a Computer Science student (specializing in AI & ML) with a background in Computer Programming. I combine core software engineering principles with creative web development to build clean, fast, and interactive digital products.
 
 I don't just work with high-level frameworks — I focus on how systems, algorithms, and web graphics actually operate under the hood.
 
@@ -36,10 +36,3 @@ I don't just work with high-level frameworks — I focus on how systems, algorit
 - 🌐 **Frontend / Web Engineering Roles** (Remote / Junior / Intern)
 - 🛠️ **Freelance Projects** (Web apps, interactive visualizers, custom UI)
 - 🤝 **Open-source Collaborations**
-
----
-
-### 📬 Connect With Me
-- 🌐 **Portfolio:** [yourportfolio.com](https://yourportfolio.com)
-- 💼 **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)
-- ✉️ **Email:** [your.email@example.com](mailto:your.email@example.com)
